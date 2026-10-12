@@ -1,0 +1,14 @@
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/bin/Debug/net8.0/WaveArraySum
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/bin/Debug/net8.0/WaveArraySum.deps.json
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/bin/Debug/net8.0/WaveArraySum.runtimeconfig.json
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/bin/Debug/net8.0/WaveArraySum.dll
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/bin/Debug/net8.0/WaveArraySum.pdb
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.AssemblyInfoInputs.cache
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.AssemblyInfo.cs
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.csproj.CoreCompileInputs.cache
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.dll
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/refint/WaveArraySum.dll
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.pdb
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/WaveArraySum.genruntimeconfig.cache
+/Users/rostyslav/Documents/Programming/PP/wave-array-sum/WaveArraySum/WaveArraySum/obj/Debug/net8.0/ref/WaveArraySum.dll
